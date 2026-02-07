@@ -1,0 +1,8 @@
+{
+  "name": "Urgent Bug Fixer Simulator",
+  "description": "A professional diagnostic and hotfix simulator for senior web developers to identify, analyze, and resolve critical production issues using Gemini AI assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
